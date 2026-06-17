@@ -1,0 +1,27 @@
+Project Overview
+This project demonstrates the application of the Midpoint Rule, a numerical integration technique used to approximate the value of a definite integral. The interval is divided into several equal subintervals, the midpoint of each subinterval is determined, and the function values at these points are used to estimate the area under the curve.
+The project was completed using Microsoft Excel to perform structured calculations and numerical analysis. It provides practical experience in applying numerical methods to solve mathematical problems when analytical solutions are difficult or unavailable.
+
+Objectives
+Understand the concept of numerical integration.
+Apply the Midpoint Rule for integral approximation.
+Perform numerical calculations using Excel.
+Analyze approximation results from numerical methods.
+Tools Used
+Microsoft Excel
+Midpoint Rule Method
+Numerical Computation Techniques
+Skills Demonstrated
+Numerical Integration
+Mathematical Modeling
+Data Analysis
+Spreadsheet Calculations
+Quantitative Problem Solving
+Applied Mathematics
+Key Learning Outcomes
+Understanding the fundamentals of numerical integration.
+Implementing the Midpoint Rule step by step.
+Interpreting approximation results from numerical methods.
+Improving analytical and computational skills through practical exercises.
+
+#Statistics #NumericalIntegration #MidpointRule #Excel #DataAnalysis #Mathematics #AppliedMathematics #ComputationalMathematics #StatisticsStudent #PortfolioProject #DataScience #STEM #ExcelSkills #QuantitativeAnalysis
